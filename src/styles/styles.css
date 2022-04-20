@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'sans'; /*a name to be used later*/
+    src: url('../fonts/sans.ttf'); /*URL to font*/
+}
+
+*{
+    font-family: 'sans' ;
+    margin: 0;
+    padding: 0;
+}
